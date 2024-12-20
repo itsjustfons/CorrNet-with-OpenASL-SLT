@@ -1,3 +1,6 @@
+This is a work in progress by Alfonso Agustin. 
+I am using the CorrNet techniques as a feature extractor, while using GloFE for natural language processing
+
 # CorrNet_CSLR
 This repo holds codes of the paper: Continuous Sign Language Recognition with Correlation Network. (CVPR 2023) [[paper]](https://arxiv.org/abs/2303.03202)
 
